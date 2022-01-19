@@ -1,0 +1,41 @@
+.navbar-brand{
+    font-family: 'Lobster', cursive;
+}
+button.nav-link.bg-muted.active {
+    background-color: grey;
+}
+
+button.nav-link.bg-muted.active i {
+    color: white;
+}
+
+button.nav-link.bg-muted{
+    color: grey;
+}
+
+.col-1.p-1 p{
+    font-size: 13px;
+    color: grey;
+}
+
+p.px-2.mb-0.fw-bold{
+    font-size: 13px;
+}
+
+.col-11 h5{
+    font-family: 'Staatliches', cursive;
+}
+
+.col-12.my-0 p{
+    font-size: 13px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.px-2.ps-4.pe-0 p, i{
+    color: grey;
+}
+
+.card{
+    margin-bottom: 10px;
+}
+
